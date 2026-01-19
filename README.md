@@ -3,4 +3,4 @@ The industry visit to Biocon Sdn. Bhd. provided valuable and meaningful exposure
 
 Furthermore, the visit enhanced my understanding of how bioinformatics, data analysis, and computational tools support research, development, and quality assurance processes in a professional setting. Observing these workflows reinforced the relevance of my academic studies and highlighted the importance of interdisciplinary collaboration between biology and computer science. Overall, this experience motivated me to continuously refine my technical, analytical, and problem-solving skills in order to better prepare myself for future professional challenges in the bioinformatics and technology-driven healthcare sectors.
 
-📄[Industrial Visit Biocon Newsletter]()
+📄[[Industrial Visit Biocon Newsletter](https://github.com/AhnafZaizal/Industrial-Visit-at-Biocon/blob/main/Biocon%20Newsletter%20Assignment%204%20(Group%204)%20(2).pdf)]
